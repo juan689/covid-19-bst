@@ -1,0 +1,12 @@
+carlos
+10
+dolordecabeza,dolordegarganta,fiebre,diarrea,vomito,escalofrio
+maria
+11
+fiebre,vomito
+jose
+12
+dolordegarganta,escalofrio
+luisa
+13
+
